@@ -14,6 +14,6 @@ Eclipse library project based on:<br/>
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
-  https://raw.githubusercontent.com/dandar3/android-google-play-services-auth/9.6.1/.projectset
+  https://raw.githubusercontent.com/dandar3/android-google-play-services-drive/9.6.1/.projectset
 - _File > Import... > SVN > Project from SVN > Create a new repository location > URL:_<br/> 
-  https://github.com/dandar3/android-google-play-services-auth/tags/9.6.1
+  https://github.com/dandar3/android-google-play-services-drive/tags/9.6.1
