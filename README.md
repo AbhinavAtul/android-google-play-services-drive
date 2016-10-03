@@ -1,7 +1,7 @@
 ## android-google-play-services-drive
 
 Eclipse library project based on:<br/>
-`ANDROID_SDK/extras/google/m2repository/com/google/android/gms/play-services-drive/9.6.1/play-services-auth-9.6.1.aar`
+`ANDROID_SDK/extras/google/m2repository/com/google/android/gms/play-services-drive/9.6.1/play-services-drive-9.6.1.aar`
 
 **Requires:**
 - `Android 7.0 (API 24) SDK Platform`
