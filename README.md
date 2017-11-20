@@ -11,7 +11,7 @@ https://maven.google.com/com/google/android/gms/play-services-drive/11.4.0/play-
 
 **References:**
 - https://developers.google.com/drive/android/intro
-- https://developers.google.com/android/guides/releases#august_2017_-_version_1120
+- https://developers.google.com/android/guides/releases#september_2017_-_version_1140
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
